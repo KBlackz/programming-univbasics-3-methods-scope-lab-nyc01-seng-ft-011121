@@ -18,7 +18,7 @@ end
 
 def phrases 
   status = "puts out all of the previous catch phrases"
-    all_phrases = (
+    all_phrases = ("It's-a me, Mario!" && 
     
     puts all_phrases
   
