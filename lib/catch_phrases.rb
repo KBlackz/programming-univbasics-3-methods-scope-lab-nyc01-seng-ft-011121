@@ -16,7 +16,7 @@ def link
   
 end
 
-def all_phrases 
+def phrases 
   status = "puts out all of the previous catch phrases"
     all_phrases = "It's-a me, Mario!"
     all_phrases = "Thank You Mario! But Our Princess Is In Another Castle!"
